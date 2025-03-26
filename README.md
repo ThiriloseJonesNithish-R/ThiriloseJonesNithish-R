@@ -4,8 +4,7 @@
 
 📍 **Trichy, TN**  
 📧 **mailtotjn@gmail.com**  
-🔗 **[LinkedIn](https://linkedin.com/in/thirilose-jones-nithish)**  
-🔗 **[GitHub](https://github.com/ThiriloseJonesNithish-R)**  
+🔗 **[LinkedIn](https://linkedin.com/in/thirilose-jones-nithish)**   
 
 ---
 
@@ -48,7 +47,7 @@ I am a passionate **UI/UX Developer** and **Machine Learning Enthusiast** with h
 - **Python, Java, JavaScript**  
 
 ### **Tools & Technologies**  
-- **React.js, Tailwind CSS, Figma, Machine Learning**  
+- **React.js, Tailwind CSS, Figma, Machine Learning, Spring-Boot**  
 
 ### **Soft Skills**  
 - **Communication, Problem-Solving, Leadership, Critical Thinking, Time Management**  
@@ -74,7 +73,6 @@ I am a passionate **UI/UX Developer** and **Machine Learning Enthusiast** with h
 
 📧 **Email:** [mailtotjn@gmail.com](mailto:mailtotjn@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/thirilose-jones-nithish](https://linkedin.com/in/thirilose-jones-nithish)  
-🔗 **GitHub:** [github.com/ThiriloseJonesNithish-R](https://github.com/ThiriloseJonesNithish-R)  
 
 ---
 
