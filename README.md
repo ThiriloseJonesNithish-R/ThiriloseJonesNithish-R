@@ -1,43 +1,44 @@
 # Hi, I'm Thirilose Jones Nithish! 👋  
 
-🎯 **UI/UX Developer | Machine Learning Enthusiast | Problem Solver**  
+💻 **Full Stack Developer | Aspiring Designer | Creative Programmer**  
 
 📍 **Trichy, TN**  
 📧 **mailtotjn@gmail.com**  
-🔗 **[LinkedIn](https://linkedin.com/in/thirilose-jones-nithish)**   
+🔗 **[LinkedIn](https://linkedin.com/in/thirilose-jones-nithish)**  
+🔗 **[GitHub](https://github.com/ThiriloseJonesNithish-R)**  
 
 ---
 
 ## 🚀 About Me  
-I am a passionate **UI/UX Developer** and **Machine Learning Enthusiast** with hands-on experience in **frontend development, AI-powered applications, and data-driven solutions**. I love designing **intuitive user interfaces** and building **intelligent systems** that solve real-world problems.  
+I'm someone who treats every challenge like a sandbox — breaking things down, experimenting, and building something purposeful. I enjoy blending **logic, design, and code** to create tools that are not just functional but intuitive and engaging. Whether it’s designing a UI, writing backend logic, or automating with ML, I thrive in the space where creativity meets structure.
 
 ---
 
 ## 💼 Work Experience  
 
 ### **Fusion Frame | UI/UX Developer** *(07/2024, Coimbatore, TN)*  
-- Designed an **intuitive UI for a drone tracking system**, improving real-time location visibility by **40%**.  
-- Developed a **React-based dashboard using Figma**, boosting user engagement by **30%**.  
+- Designed a clean and responsive UI for a drone tracking platform, improving real-time location visibility by **40%**.  
+- Developed a dynamic dashboard using **Figma and React**, increasing user engagement by **30%**.  
 
 ### **Cognifyz Technologies | Machine Learning Intern** *(03/2024 – 04/2024, Remote)*  
-- Built a **restaurant classification ML model** with **92% accuracy** using **Python**.  
-- Optimized model performance through **feature engineering**, reducing classification errors by **25%**.  
+- Built a **cuisine-based restaurant classification model** using Python with **92% accuracy**.  
+- Applied feature engineering to boost performance, reducing classification errors by **25%**.
 
 ---
 
 ## 🛠️ Projects  
 
 ### **AI-Based Meal Planner**  
-- Developed a **GenAI-powered system** that generates personalized meal plans.  
-- Built with **Streamlit & Python** for an interactive and scalable experience.  
+- Created a **Generative AI tool** for building adaptive, personalized meal plans.  
+- Developed using **Python and Streamlit** for a seamless interactive user experience.  
 
 ### **Meta View (AR/VR Retailing Website)**  
-- Created an **AR/VR-powered e-commerce platform** using **React.js**.  
-- Designed an **interactive product experience** to enhance online shopping.  
+- Engineered a virtual shopping platform using **React.js**, enabling immersive product previews.  
+- Focused on user interaction and product flow to support better decision-making.  
 
 ### **AI-Based Notes Reader**  
-- Built an **AI-powered tool using Python and NLP** for structured, **context-aware** text summarization.  
-- Implemented **machine learning models** to enhance text readability and accuracy.  
+- Built an AI tool that converts rough notes into **structured, smart summaries**.  
+- Integrated **text summarization and text-to-speech** using Python, ML, and gTTS.  
 
 ---
 
@@ -47,10 +48,10 @@ I am a passionate **UI/UX Developer** and **Machine Learning Enthusiast** with h
 - **Python, Java, JavaScript**  
 
 ### **Tools & Technologies**  
-- **React.js, Tailwind CSS, Figma, Machine Learning, Spring-Boot**  
+- **React.js, Tailwind CSS, Spring Boot, Figma, Streamlit, Machine Learning**  
 
 ### **Soft Skills**  
-- **Communication, Problem-Solving, Leadership, Critical Thinking, Time Management**  
+- **Problem Solving, Creativity, Communication, Time Management, Critical Thinking**  
 
 ### **Languages**  
 - **English, Tamil**  
@@ -61,7 +62,7 @@ I am a passionate **UI/UX Developer** and **Machine Learning Enthusiast** with h
 
 🎓 **SNS College of Technology** *(09/2022 – Present)*  
 - **B.Tech – Artificial Intelligence & Machine Learning**  
-- **Cumulative GPA:** 8.4/10.0  
+- **Cumulative GPA:** 8.4 / 10.0  
 
 🏫 **SVM HR SEC SCHOOL** *(07/2020 – 04/2022)*  
 - **10th Grade:** 96%  
@@ -72,8 +73,8 @@ I am a passionate **UI/UX Developer** and **Machine Learning Enthusiast** with h
 ## 📫 Connect with Me  
 
 📧 **Email:** [mailtotjn@gmail.com](mailto:mailtotjn@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/thirilose-jones-nithish](https://linkedin.com/in/thirilose-jones-nithish)  
+🔗 **LinkedIn:** [linkedin.com/in/thirilose-jones-nithish](https://linkedin.com/in/thirilose-jones-nithish) 
 
 ---
 
-🚀 **Let’s build something amazing together!**  
+🌱 **Still learning. Still building. Always experimenting.**  
