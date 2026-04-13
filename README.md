@@ -2,7 +2,7 @@
 💻 Full Stack Developer | Aspiring Designer | Creative Programmer
 
 📍 Trichy, TN  
-📧 mailtotjn@gmail.com
+📧 **mailtotjn@gmail.com**
 🔗 [LinkedIn](https://linkedin.com/in/thirilose-jones-nithish)  
 🔗 [GitHub](https://github.com/ThiriloseJonesNithish-R)
 
