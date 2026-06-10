@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I approach every problem like a **sandbox**—breaking it down, experimenting, and building meaningful solutions. I enjoy combining **backend systems, AI, and user-focused design** to create applications that are not just functional, but smart and intuitive. From developing secure APIs to building AI-powered tools, I thrive at the intersection of **logic, creativity, and real-world impact**.
+I approach every problem like a **sandbox** breaking it down, experimenting, and building meaningful solutions. I enjoy combining **backend systems, AI, and user-focused design** to create applications that are not just functional, but smart and intuitive. From developing secure APIs to building AI-powered tools, I thrive at the intersection of **logic, creativity, and real-world impact**.
 
 ---
 
