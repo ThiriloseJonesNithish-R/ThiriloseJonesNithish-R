@@ -52,7 +52,7 @@ I approach every problem like a **sandbox** breaking it down, experimenting, and
 * Built an intelligent document analysis platform using **OCR**, **MongoDB**, and **RAG-based AI workflows**.
 * Integrated the **Gemini API** to enable conversational document search, translation, and multilingual assistance across **5+ languages**.
 * Engineered scalable document ingestion pipelines capable of processing large multi-page documents efficiently.
-* 🔗 [Repo](https://github.com/ThiriloseJonesNithish-R/Tracker-Website-)
+* 🔗 [Repo](https://github.com/ThiriloseJonesNithish-R/Gendoc-Assistant)
 
 ---
 
