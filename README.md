@@ -15,6 +15,19 @@ I approach every problem like a **sandbox** breaking it down, experimenting, and
 
 ---
 
+## 🧪 Where the Experiments Happen
+
+This profile showcases the projects I've polished.
+
+If you're curious about what I'm currently learning, experimenting with, or building before it's production-ready, I keep a separate GitHub dedicated to that journey.
+
+Think of it as my digital workshop.
+
+🔗 **Learning & Experiments:** https://github.com/thirilose-learn
+
+---
+
+
 ## 💼 Work Experience
 
 ### **Fusion Frame | UI/UX Developer Intern** *(06/2024 – 07/2024, Coimbatore, TN)*
