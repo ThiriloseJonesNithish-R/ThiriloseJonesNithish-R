@@ -1,6 +1,6 @@
 # Hi, I'm Thirilose Jones Nithish! 👋
 
-💻 **Full Stack Developer | AI-Powered Applications | Backend & System Design**
+💻 **Analyst | AI-Powered Applications | Backend & System Design**
 
 📍 **Trichy, TN**<br>
 📧 **[Email](mailto:mailtotjn@gmail.com)**<br>
@@ -125,7 +125,7 @@ Think of it as my digital workshop.
 🎓 **SNS College of Technology** *(09/2022 – 04/2026)*
 
 * **B.Tech – Artificial Intelligence & Machine Learning (AIML)**
-* **CGPA:** 8.4 / 10.0
+* **CGPA:** 8.5 / 10.0
 
 🏫 **SVM HR SEC School** *(07/2021 – 04/2022)*
 
